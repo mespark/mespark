@@ -31,25 +31,6 @@ A developer who likes building things that actually get used — not just demos.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sparkxravi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkxravi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparkxravi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sparkxravi&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
-</p>
-
-> **Note:** if the cards above don't render, it's the shared public API being rate-limited by GitHub — not a config issue. Self-hosting a personal instance of `github-readme-stats` fixes this permanently.
-
----
-
 ## 📖 Currently Exploring
 
 - Integrating **AI/LLMs** into everyday automation workflows
